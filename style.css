@@ -1,0 +1,27 @@
+.navbar-logo{
+    width: 97.97px;
+    height: 74.93px;
+}
+.navbar-list{
+    font-weight: 600;
+    font-size: 16px;
+    margin-right:20px;
+}
+.search-box{
+    position: relative;
+}
+.search-btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    background: #F06C4E;
+    border-radius: 0px 6px 6px 0px;
+    width: 111px;
+    border: none;
+}
+.form-control{
+    background: #F8F7F5;
+    border-radius: 6px;
+    padding: 22px;
+}
